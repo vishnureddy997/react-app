@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload data to get the latest webpage to help ukraine people or community with latest chnages.
+          Edit <code>src/App.js</code> and save to reload data to get the latest webpage to help ukraine people .
         </p>
         <a
           className="App-link"
