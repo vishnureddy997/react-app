@@ -1,1 +1,8 @@
+1. configure and create profile using command "aws configure --profile vishnu"
+
+and provide accesskey and secret key and sufficient details
+
+
+2. 
+
 npm run client-deploy
