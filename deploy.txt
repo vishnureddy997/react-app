@@ -3,6 +3,4 @@
 and provide accesskey and secret key and sufficient details
 
 
-2. 
-
-npm run client-deploy
+2. npm run client-deploy
